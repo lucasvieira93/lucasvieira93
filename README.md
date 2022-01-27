@@ -1,17 +1,4 @@
-### Hi there 👋
-
-<!--
-**lucasvieira93/lucasvieira93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...## Olá! Eu sou o Lucas Vieira! 👋 
+## Olá! Eu sou o Lucas Vieira! 👋 
 
 - :mortar_board: Formado no ano de 2021 em Analise de Desenvolvimento de Sistemas
 - :battery: Trilhando caminho em desenvolvimento mobile Android
@@ -65,6 +52,3 @@ Here are some ideas to get you started:
 
 [instagram]: https://www.instagram.com/oi.lucasvieira/
 [linkedin]: hhttps://www.linkedin.com/in/lucasvieira1993/
-
-- ⚡ Fun fact: ...
--->
