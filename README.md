@@ -15,6 +15,7 @@
 [<img align="left" alt="Lucas Vieira | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 ---
 
 ### Linguagens e tecnologias:
@@ -34,7 +35,6 @@
 - [Curso Desenvolvimento Android Completo - Jamilton Damasceno](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/)
 - [Bootcamp NTT DATA Android Developer](https://web.dio.me/track/ntt-data-android-developer?tab=path)
 
----
 
 [instagram]: https://www.instagram.com/oi.lucasvieira/
 [linkedin]: https://www.linkedin.com/in/lucasvieira1993/
