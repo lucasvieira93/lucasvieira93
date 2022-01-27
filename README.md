@@ -14,6 +14,7 @@
 [<img align="left" alt="Lucas Vieira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Lucas Vieira | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 ---
 
 ### Linguagens e tecnologias:
@@ -36,4 +37,4 @@
 ---
 
 [instagram]: https://www.instagram.com/oi.lucasvieira/
-[linkedin]: hhttps://www.linkedin.com/in/lucasvieira1993/
+[linkedin]: https://www.linkedin.com/in/lucasvieira1993/
