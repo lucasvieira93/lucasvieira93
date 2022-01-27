@@ -29,11 +29,18 @@
 
 ---
 
-### 📺 Cursos em andamento
+### 📺 Cursos em andamento:
 
 - [Curso de Java Completo - Nélio Alves](https://www.udemy.com/course/java-curso-completo/)
 - [Curso Desenvolvimento Android Completo - Jamilton Damasceno](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/)
 - [Bootcamp NTT DATA Android Developer](https://web.dio.me/track/ntt-data-android-developer?tab=path)
+
+---
+
+### Github Stats:
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvieira93)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [instagram]: https://www.instagram.com/oi.lucasvieira/
