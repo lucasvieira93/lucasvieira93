@@ -3,8 +3,8 @@
 - :mortar_board: Formado no ano de 2021 em Analise de Desenvolvimento de Sistemas
 - :battery: Trilhando caminho em desenvolvimento mobile Android
 - :dancers: Interesse em conhecer novos devs para aprendizado
-- :heart: Amante de boardgames e musica alternativa
-- :star: Atualmente desempregado e focado em 2022!
+- :heart: Amante de boardgames e curioso um curioso da fotografia
+- :star: Atualmente desempregado e tendo meta para entrar na area em 2022!
 
 ---
 
@@ -21,6 +21,7 @@
 ### Linguagens e tecnologias:
 
 - Java
+- Kotlin
 - Firebase
 - PostgreSQL
 - Git
