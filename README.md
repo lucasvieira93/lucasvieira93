@@ -3,7 +3,7 @@
 - :mortar_board: Formado no ano de 2021 em Analise de Desenvolvimento de Sistemas
 - :iphone: Trilhando caminho em desenvolvimento mobile Android
 - :dancers: Interesse em conhecer novos devs para aprendizado
-- :heart: Amante de boardgames e curioso um curioso da fotografia
+- :heart: Amante de boardgames e um curioso da fotografia
 - :star: Atualmente desempregado e tendo meta para entrar na area em 2022!
 
 ---
